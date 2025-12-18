@@ -2,9 +2,9 @@
 
 Lingui is an open-source project maintained by a dedicated community of contributors. While the project itself doesn't collect direct donations, we deeply appreciate the support of our contributors.
 
-## Supporting Contributors
+## Supporting Contributors Directly
 
-You can support any contributor to Lingui through GitHub Sponsors (preferred) or other platforms. Whether they're a maintainer, a frequent contributor, or someone whose work you appreciate, you have the freedom to sponsor whomever you'd like.
+You can support individual Lingui contributors through GitHub Sponsors (preferred) or other platforms. Whether they are a maintainer, a frequent contributor, or someone whose work you appreciate, you have the freedom to sponsor whomever you'd like.
 
 Your sponsorship helps contributors dedicate time to:
 
@@ -13,9 +13,11 @@ Your sponsorship helps contributors dedicate time to:
 - Maintaining documentation
 - Supporting the community
 
-## Project Steward Fund
+## The Lingui Fund
 
-Lingui is maintained under the stewardship of [Crowdin](https://crowdin.com), which dedicates a monthly fund for the project to ensure its sustainability. The most active contributors, whether through code contributions, documentation improvements, or helping the community, are eligible for one-time or recurring sponsorship from this fund.
+Lingui is maintained under the stewardship of [Crowdin](https://crowdin.com), which dedicates a monthly budget to the **Lingui Fund** to ensure the project's sustainability.
+
+This fund provides sponsorship (one-time or recurring) to active community members. Eligibility is based on impact, such as significant code contributions or bug fixes, documentation improvements, or helping the community in support channels.
 
 ## Other Ways to Support
 

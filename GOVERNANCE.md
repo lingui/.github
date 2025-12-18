@@ -2,7 +2,7 @@
 
 This document outlines the governance model for Lingui. This includes detailed descriptions of different roles, nomination processes, code review processes, and Code of Conduct enforcement.
 
-👉 **All community members must follow the [Code of Conduct (CoC)](CODE_OF_CONDUCT.md).**  
+👉 **All community members must follow the [Code of Conduct (CoC)](CODE_OF_CONDUCT.md).**
 
 ## Roles
 
@@ -28,6 +28,7 @@ In extremely rare cases, a Steward can act unilaterally when they believe it is 
 - Administration privileges on the [Lingui GitHub organization](https://github.com/lingui)
 - Publish access to Lingui npm packages (`@lingui/*`, `eslint-plugin-lingui`)
 - Administration privileges on the [Lingui website](https://lingui.dev) (Domain registration, Vercel hosting, Algolia search)
+- Management of the [Lingui Fund](FUNDING.md)
 - [@LinguiJS X(Twitter)](https://x.com/LinguiJS) account administration
 - Administration privileges on Discord community server
 - Project planning and moderation decisions
@@ -73,7 +74,7 @@ Contributors are community members who have made significant contributions to th
 
 - `@contributor` role on Lingui Discord server
 - Recognition as a Contributor
-- Most active contributors are eligible for GitHub sponsorship (see [FUNDING.md](FUNDING.md))
+- Eligibility for sponsorship from the [Lingui Fund](FUNDING.md)
 
 #### Examples of recognized contributions
 
