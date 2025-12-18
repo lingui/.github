@@ -11,7 +11,7 @@ Lingui's governance is structured around different roles that recognize various 
 The project recognizes the following roles:
 
 - **Steward**: Administrative role responsible for project assets and final decision-making
-- **Maintainers**: Active contributors who help maintain and grow the project
+- **Core Contributors (Maintainers)**: Active contributors who help maintain and grow the project
 - **Contributors**: Contributors who have made significant contributions to the project
 - **Alumni**: Former Maintainers who have stepped away from active contribution
 
@@ -80,7 +80,7 @@ Contributors are community members who have made significant contributions to th
 - Submitting merged pull requests (features, bug fixes, documentation)
 - Filing detailed bug reports or feature requests
 - Reviewing pull requests and providing feedback
-- Helping users in community channels
+- Helping users in [community channels](#communication-channels)
 - Improving documentation or creating content about Lingui
 
 #### Responsibilities
@@ -97,3 +97,33 @@ Contributors can be nominated by any Maintainer or can self-nominate by reaching
 
 - [@tricoder42](https://github.com/tricoder42)
 - [@semoal](https://github.com/semoal)
+
+## Communication Channels
+
+The Lingui community uses several channels for different types of communication. Choose the appropriate channel based on your needs.
+
+### GitHub
+
+- **Issues**: Report bugs, request features, or ask questions about the project
+- **Discussions**: General questions, ideas, and community discussions
+- **Pull Requests**: Code contributions and code review discussions
+
+### Discord
+
+- **General support**: Quick questions and community help
+- **Real-time collaboration**: Live discussions with Maintainers and Contributors
+- **Announcements**: Project updates and important news
+
+### Social Media
+
+- **X (Twitter)**: [@LinguiJS](https://x.com/LinguiJS) - Project updates and community highlights
+
+### Contacting Maintainers
+
+For private matters, security issues, or Code of Conduct violations, you can:
+
+- Reach out to Maintainers directly via Discord
+- Use GitHub Discussions for public inquiries
+- Contact the Steward for governance-related matters
+
+For more information about community standards, see the [Code of Conduct](CODE_OF_CONDUCT.md).
